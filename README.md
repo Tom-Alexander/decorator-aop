@@ -1,4 +1,5 @@
 # decorator-aop
+[![Build Status](https://travis-ci.org/Tom-Alexander/decorator-aop.svg)](https://travis-ci.org/Tom-Alexander/decorator-aop)
 
 Javascript aspect orientated programming with ES7 decorators.
 
